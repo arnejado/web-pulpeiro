@@ -1,5 +1,8 @@
 body {
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
 }
 img {
     width: 300px;
